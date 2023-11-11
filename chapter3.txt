@@ -1,1 +1,9 @@
-i am fine
+git add chapter1
+git add chapter2.txt
+git add chapter3.txt
+git commit -m “completing chapter1”
+git commit -m “adding chapter2”
+Or git commit -m “adding chapter2and3”(for adding both files at once)
+git log(check the log)
+git diff chapter3.txt
+git checkout chapter3(for going back to the change)
