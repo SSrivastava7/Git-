@@ -7,3 +7,4 @@ Or git commit -m “adding chapter2and3”(for adding both files at once)
 git log(check the log)
 git diff chapter3.txt
 git checkout chapter3(for going back to the change)
+git rm -r --cached .
