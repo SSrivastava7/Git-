@@ -8,3 +8,5 @@ git log(check the log)
 git diff chapter3.txt
 git checkout chapter3(for going back to the change)
 git rm -r --cached .
+https://github.com/SSrivastava7/Git-.git
+https://github.com/SSrivastava7/Git-.git
