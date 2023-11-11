@@ -1,0 +1,4 @@
+code git
+git branch
+git branch duplicate
+git checkout duplicate
